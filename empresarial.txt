@@ -1,0 +1,14 @@
+Solicitar nome do usuário
+Solicitar idade do usuário
+Se o funcionário possuir 60 anos ou mais, apresentar o plano de aposentadoria dele
+Se ele possuir menos que 60 anos, informar que ele não possui plano de aposentadoria
+Solicitar estado civil
+Solicitar número de filhos do funcionário
+Se o funcionário não possuir filhos, informar que ele não possui direito a auxilio familia
+Se o funcionário tiver filhos, informar que ele tem direito ao auxilio familia
+Solicitar o tempo de empresa em anos
+Se o funcionário tiver mais que 5 anos na empresa informar que ele tem direito ao abono salarial
+Se ele possuir menos que 5 anos de empresa, informar que ele não possui direito ao abono salarial
+Solicitar o valor do salário do funcionário
+Se o valor do salário for maior que 4,300 reais, informar que o funcionário tem direito ao seguro de vida e saúde
+Se o valor do salário for menor que 4,300 reais, informar que ele não tem direito ao seguro de vida e saúde
